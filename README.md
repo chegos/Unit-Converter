@@ -30,9 +30,8 @@ O projeto foi desenvolvido para praticar lógica de programação, manipulação
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3 (Flask) ou Node.js + Express
+- Python 3 (Flask)
 - HTML5
-- CSS3 (opcional)
 - Sem banco de dados
 
 ---

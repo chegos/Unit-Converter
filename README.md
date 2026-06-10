@@ -12,8 +12,6 @@ O usuário insere um valor, seleciona a unidade de origem e a de destino, e o si
 
 O projeto foi desenvolvido para praticar lógica de programação, manipulação de formulários web e rotas no backend.
 
-https://roadmap.sh/projects/unit-converter
-
 ---
 
 ## 🚀 Funcionalidades
